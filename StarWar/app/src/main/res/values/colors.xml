@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E7B724</color>
+    <color name="colorPrimaryDark">#E7B724</color>
+    <color name="colorAccent">#E7B724</color>
+
+
+    <color name="text_logout">#E7700F</color>
+    <color name="dummy">#f7f8fc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#1AC92B</color>
+    <color name="thumb">#eaeaea</color>
+    <color name="orange">#E2AA04</color>
+    <color name="searchBackColor">#FEFF0A</color>
+    <color name="topPartBackColor">#333333</color>
+    <color name="topHeaderBackColor">#2F5D98</color>
+    <color name="nextScheduleBackColor">#6890B8</color>
+    <color name="skyblue">#6698FF</color>
+    <color name="bluenew">#0B4499</color>
+    <color name="black">#000000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="textblue">#75D8F8</color>
+    <color name="header_background">#AF3329</color>
+    <color name="navy">#245EDE</color>
+    <color name="lightblue">#C3EEFE</color>
+    <color name="verylightblue">#DBF6FF</color>
+    <color name="headingtextcolor">#89E3FE</color>
+    <color name="RosyBrown">#e8f0f2</color>
+    <color name="nameColor">#5d5d5d</color>
+    <color name="separatorColor">#d8d8d8</color>
+    <color name="symptom_color_selected">#003366</color>
+    <color name="reaction_color_selected">#003366</color>
+    <color name="static_text_color">#003366</color>
+    <color name="journal_entry_listitem_text_color">#003366</color>
+    <color name="note_text_disabled">#333333</color>
+    <color name="red">#FF0000</color>
+    <color name="transperant">#80000000 </color>
+    <color name="transparent">#00000000 </color>
+    <color name="text_color">#000000</color>
+    <color name="dgrey">#7c7c7c</color>
+    <color name="lgrey">#D3D3D3</color>
+    <color name="newblue">#4169E1</color>
+    <color name="ruxolitinib_text_color">#003d59</color>
+    <color name="present_day_text_color">#000000</color>
+    <color name="white_transparent">#ffffff55</color>
+    <color name="lblue">#e9f0fa</color>
+    <color name="yellow">#FBA745</color>
+    <color name="dblue">#1C55A4</color>
+</resources>

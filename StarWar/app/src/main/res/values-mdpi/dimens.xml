@@ -1,0 +1,164 @@
+<resources>
+    <bool name="isTablet">false</bool>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="sub_small_text_size">9sp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <dimen name="very_small_text_size">8sp</dimen>
+    <dimen name="medium_text_size">12dp</dimen>
+    <dimen name="edit_text_margin_top">2dp</dimen>
+    <dimen name="large_text_size">15dp</dimen>
+    <dimen name="large_header_text_size">20dp</dimen>
+    <dimen name="lpadding_20">20dp</dimen>
+    <dimen name="b_width_32">32dip</dimen>
+    <dimen name="b_height_32">33dip</dimen>
+    <dimen name="b_height_30">25dip</dimen>
+    <dimen name="light_small_text_size">9sp</dimen>
+    <dimen name="share_button_size">42dp</dimen>
+    <!-- LAYOUT PADDINGS- START -->
+
+    <dimen name="b_height_44">32dip</dimen>
+    <!-- video Dialog height -->
+    <dimen name="dialog_height">300dp</dimen>
+    <!-- PADDINGS- ALL -->
+    <dimen name="dot_margin_top">8dip</dimen>
+    <dimen name="lpadding_10">10dip</dimen>
+    <dimen name="price_bottom_padding">3dp</dimen>
+    <dimen name="lpadding_5">5dip</dimen>
+    <dimen name="lpadding_3">3dip</dimen>
+    <dimen name="lpadding_1">1dip</dimen>
+    <dimen name="lpadding_2">2dip</dimen>
+    <dimen name="lpadding_4">4dip</dimen>
+    <dimen name="lpadding_30">30dip</dimen>
+    <dimen name="lpadding_7">5dip</dimen>
+    <dimen name="dummy_space">0dp</dimen>
+    <!-- PADDINGS- TOP -->
+
+    <dimen name="lpadding_top_2">2dip</dimen>
+    <dimen name="lpadding_top_7">7dip</dimen>
+    <dimen name="lpadding_top_80">80dip</dimen>
+    <dimen name="doc_width_80">80dip</dimen>
+    <dimen name="doc_width_200">200dip</dimen>
+    <dimen name="lpadding_top_90">90dip</dimen>
+    <dimen name="lpadding_top_5">5dip</dimen>
+    <dimen name="lpadding_top_15">15dip</dimen>
+
+    <!-- PADDINGS- BOTTOM -->
+
+    <dimen name="lpadding_bottom_3">3dip</dimen>
+    <dimen name="lpadding_bottom_7">7dip</dimen>
+    <dimen name="lpadding_bottom_15">15dip</dimen>
+
+    <!-- PADDINGS- LEFT -->
+
+    <dimen name="lpadding_left_5">5dip</dimen>
+    <dimen name="lpadding_left_7">7dip</dimen>
+    <dimen name="lpadding_left_10">10dip</dimen>
+    <dimen name="lpadding_left_3">3dip</dimen>
+    <dimen name="lpadding_left_30">30dip</dimen>
+
+    <!-- PADDINGS- RIGHT -->
+
+    <dimen name="lpadding_right_5">5dip</dimen>
+    <dimen name="lpadding_right_30">30dip</dimen>
+
+    <!-- LAYOUT paddingS - END -->
+
+
+    <!-- LAYOUT PADDINGS- END -->
+
+
+    <!-- LAYOUT MARGINS - START -->
+
+
+    <!-- MARGINS - ALL -->
+
+    <dimen name="lmargin_30">30dip</dimen>
+    <dimen name="lmargin_10">10dip</dimen>
+    <dimen name="lmargin_3">3dip</dimen>
+    <dimen name="lmargin_2">2dip</dimen>
+    <dimen name="lmargin_5">5dip</dimen>
+    <dimen name="lmargin_0">10dip</dimen>
+    <!-- MARGINS - TOP -->
+
+    <dimen name="lmargin_top_5">5dip</dimen>
+    <dimen name="lmargin_top_3">3dip</dimen>
+    <dimen name="lmargin_top_2">2dip</dimen>
+    <dimen name="lmargin_top_1">1dip</dimen>
+    <dimen name="lmargin_top_8">8dip</dimen>
+    <dimen name="lmargin_top_15">15dip</dimen>
+    <dimen name="lmargin_top_10">10dip</dimen>
+
+    <!-- MARGINS - BOTTOM -->
+    <dimen name="lmargin_bottom_10">10dip</dimen>
+    <dimen name="lmargin_bottom_2">2dip</dimen>
+    <dimen name="lmargin_bottom_1">1dip</dimen>
+    <dimen name="lmargin_bottom_4">4dip</dimen>
+    <dimen name="lmargin_bottom_3">3dip</dimen>
+    <dimen name="lmargin_bottom_8">8dip</dimen>
+    <dimen name="lmargin_bottom_25">10dip</dimen>
+
+    <!-- MARGINS - LEFT -->
+
+    <dimen name="lmargin_left_10">10dip</dimen>
+    <dimen name="lmargin_left_30">30dip</dimen>
+    <dimen name="lmargin_left_3">3dip</dimen>
+    <dimen name="lmargin_left_5">5dip</dimen>
+
+    <!-- MARGINS - RIGHT -->
+    <dimen name="lmargin_right_10">10dip</dimen>
+    <dimen name="lmargin_right_2">2dip</dimen>
+    <dimen name="lmargin_right_3">3dip</dimen>
+    <dimen name="lmargin_right_5">5dip</dimen>
+
+    <!-- LAYOUT MARGINS - END -->
+
+
+    <!-- TEXT VIEW WIDTH - START -->
+    <dimen name="textview_width_200">200dip</dimen>
+    <dimen name="textview_width_150">120dip</dimen>
+
+    <!-- TEXT VIEW WIDTH - END -->
+    <!-- Button Width/HEIGHT  START -->
+    <dimen name="button_width">90dp</dimen>
+    <dimen name="button_height">30dp</dimen>
+    <!-- Button Width/HEIGHT END -->
+
+
+    <!-- ToggleButton Width/HEIGHT  START -->
+    <dimen name="toggle_button_width">36dp</dimen>    <dimen name="toggle_button_height">40dp</dimen>
+    <!-- ToggleButton Width/HEIGHT END -->
+
+
+    <!-- Header HEIGHT  START -->
+    <dimen name="header_height">40dp</dimen>
+    <!-- Header height END -->
+
+
+    <!-- IMAGE WIDTH START -->
+    <dimen name="image_height">65dp</dimen>
+    <dimen name="image_width">65dp</dimen>
+    <!-- IMAGE WIDTH END -->
+    <!-- Header Text  START -->
+    <dimen name="header_text_size">20dp</dimen>
+    <!-- Header Text END -->
+    <!-- Icon Height  START -->
+    <dimen name="icon_height">100dp</dimen>
+    <dimen name="lpadding_top_70">85dip</dimen>
+    <dimen name="disclaimer_button_width">120dp</dimen>
+    <dimen name="disclaimer_button_height">30dp</dimen>
+    <!-- Icon Height END -->
+    <dimen name="width">25dp</dimen>
+    <dimen name="edit_text_height">60dp</dimen>
+    <dimen name="lsize_70">70dp</dimen>
+    <dimen name="height_toggle_button">27dp</dimen>
+    <dimen name="width_toggle_button">53dp</dimen>
+    <dimen name="rounded_image_width">45dp</dimen>
+    <dimen name="lmargin_25">25dp</dimen>
+    <dimen name="checkbox_height">30dp</dimen>
+    <dimen name="checkbox_width">40dp</dimen>
+    <dimen name="apply_button_padding">3dp</dimen>
+    <dimen name="height_400">200dp</dimen>
+
+</resources>

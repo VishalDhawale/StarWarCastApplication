@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#99000000"
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/b_height_44"
+            android:background="@drawable/blank_header_dialog"
+            android:gravity="center"
+
+            android:text="Processing..."
+            android:textColor="@color/white"
+            android:textSize="@dimen/large_text_size"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/ll_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal" >
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="@dimen/b_height_44"
+                android:layout_height="@dimen/b_height_44"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/lpadding_7"
+                android:indeterminateDrawable="@drawable/progress" />
+            <!-- <ProgressBar -->
+            <!-- android:id="@+id/progressbar" -->
+            <!-- android:layout_width="@dimen/b_height_44" -->
+            <!-- android:layout_height="@dimen/b_height_44" -->
+            <!-- android:layout_gravity="center" -->
+            <!-- android:layout_marginLeft="@dimen/lpadding_7" /> -->
+
+            <TextView
+                android:id="@+id/tv_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="@dimen/lpadding_20"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/dgrey"
+                android:textSize="@dimen/large_text_size"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

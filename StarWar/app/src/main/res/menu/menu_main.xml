@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LauncherDetailsActivity">
+    <item
+        android:id="@+id/action_film"
+        android:orderInCategory="100"
+        android:title="@string/action_film"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_species"
+        android:orderInCategory="100"
+        android:title="@string/action_spices"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_vehicles"
+        android:orderInCategory="100"
+        android:title="@string/action_vehicle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_starship"
+        android:orderInCategory="100"
+        android:title="@string/action_starship"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_people"
+        android:orderInCategory="100"
+        android:title="@string/action_people"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_planet"
+        android:orderInCategory="100"
+        android:title="@string/action_planet"
+        app:showAsAction="never" />
+
+</menu>
