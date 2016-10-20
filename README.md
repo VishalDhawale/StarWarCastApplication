@@ -32,7 +32,7 @@
 
 - Selecting the search option user is able to view the following details about the actor
 
-1. - Info about the Actor
+1. Info about the Actor
 
 1. Type of Species acted by the user
 
@@ -45,7 +45,7 @@
 - Film name following the list of other people acted in the same film is displayed while user selects a particular film from the list
 
 - Selecting the search option user is able to view the following details about the Film
-- Info of the Film
+1. Info of the Film
 
 1. List of Species viewed in the film
 
@@ -59,7 +59,7 @@
 
 - Selecting the search option user is able to view the following details about the People
 
-1. - Info about the Actor
+1. Info about the Actor
 
 1. Type of Species acted by the user
 
@@ -93,9 +93,9 @@
 
 ## **Vehicle**
 
-1. List of films that has same Vehicles used are displayed upon selecting a particular vehicle from the list
+- List of films that has same Vehicles used are displayed upon selecting a particular vehicle from the list
 
-1. Selecting the search option user is able to view the following details about the Vehicle
+- Selecting the search option user is able to view the following details about the Vehicle
 
 1. Info about the Vehicle
 
